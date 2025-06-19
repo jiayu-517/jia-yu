@@ -1,0 +1,31 @@
+body {
+    background-color: #97a7d3;
+    width: 70%;
+    margin: 20px auto;
+}
+
+header {
+    text-decoration: underline;
+    font-size: 200%;
+}
+
+#re {
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.g {
+    margin: 25px;
+    border: 5px rosybrown;
+    border-style: dashed;
+}
+
+/* 按鈕 */
+#back {
+    border-radius: 30%;
+    padding: 20px;
+    margin: 10px;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}

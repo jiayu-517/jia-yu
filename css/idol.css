@@ -1,0 +1,63 @@
+body {
+    margin: auto;
+    background-color: rgb(215, 231, 250);
+}
+
+#wrap {
+    width: 95%;
+    margin: 20px auto;
+    position: relative;
+}
+
+header {
+    text-decoration: underline;
+    font-size: 200%;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.i {
+    background-color: rgb(192, 170, 201);
+    width: 400px;
+    height: 1000px;
+    float: left;
+    margin-right: 40px;
+}
+
+.d {
+    background-color: rgb(195, 188, 226);
+    width: 400px;
+    height: 1000px;
+    float: left;
+}
+
+.e {
+    background-color: rgb(186, 203, 240);
+    width: 400px;
+    height: 1000px;
+    float: right;
+}
+
+img{
+    margin: auto 40px;
+    border-radius: 2%;
+}
+
+.bot {
+    padding: 20px;
+    margin: 10px;
+    border-radius: 30%;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+
+footer {
+    background-color: rgba(193, 193, 247, 0.493);
+    width: 100%;
+    height: 100px;
+    clear: both;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
